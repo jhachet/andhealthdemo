@@ -1,1 +1,2 @@
 # andhealthdemo
+this is my attempt at creating an end to end data warehouse for andhealth. I started by created something that would pull data from the hrsa website and then grab the parts of the json I needed, once I had that I loaded the csv's into postgresql using sql commands. next I built a few fake tables for some data I felt was missing based on my email to Travis. I didn't get nearly as far as I wanted with this project but I think it displays the direction I was heading. 
